@@ -14,3 +14,18 @@ Dataset URL: https://collect.qmul.ac.uk/down?t=4LO0R0TSLPGGHJPC/45O137K56GGVDFUT
 ## Model Building
 
 Steps involved in the model building such as dataset preprocessing, feature exrtaction, model training, validation and testing are explained in the notebook: 
+
+### Feature Extraction
+
+These are the features extracted from the audio clips.
+
+1.Power
+2.Pitch mean
+3.Pitch standard deviation
+4.Fraction of voiced region
+5.Spectral Centroid
+6.Spectral Bandwidth
+7.Spectral RollOff
+8.Zero Crossing Rate
+9.Chroma STFT
+10.MelSpectrogram
