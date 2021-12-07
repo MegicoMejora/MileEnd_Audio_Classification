@@ -20,12 +20,25 @@ Steps involved in the model building such as dataset preprocessing, feature exrt
 These are the features extracted from the audio clips.
 
 1.Power
+
 2.Pitch mean
+
 3.Pitch standard deviation
+
 4.Fraction of voiced region
+
 5.Spectral Centroid
+
 6.Spectral Bandwidth
+
 7.Spectral RollOff
+
 8.Zero Crossing Rate
 9.Chroma STFT
 10.MelSpectrogram
+
+
+Logistic Regression Classifier
+Support Vector Machines(SVM)
+SVM with normalized values and tuned parameters using grid search
+KNN classifier
