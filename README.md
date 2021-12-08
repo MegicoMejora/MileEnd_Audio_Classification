@@ -34,11 +34,17 @@ These are the features extracted from the audio clips.
 7.Spectral RollOff
 
 8.Zero Crossing Rate
+
 9.Chroma STFT
+
 10.MelSpectrogram
 
+Given below candidate models were trained and selected a model after evaluating the validating accuracies of the candidate models.
 
-Logistic Regression Classifier
-Support Vector Machines(SVM)
-SVM with normalized values and tuned parameters using grid search
-KNN classifier
+1.Logistic Regression Classifier
+
+2.Support Vector Machines(SVM)
+
+3.SVM with normalized values and tuned parameters using grid search
+
+4.KNN classifier
